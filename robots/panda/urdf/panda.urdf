@@ -440,4 +440,5 @@
     <child link="panda_finger_tip"/>
     <origin rpy="0 0 0" xyz="0 0 0.1"/>
     <axis xyz="0 0 0"/>
+  </joint>
 </robot>
